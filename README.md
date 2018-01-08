@@ -1,0 +1,2 @@
+＃AwesomeProject
+本项目为react-native百度地图版本
